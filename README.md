@@ -1,1 +1,1 @@
-# E1-CC-B-APA-Introdu-o-Recursividade
+# Repositório destinado para acessar todos os materiais utilizados e desenvolvidos durante as aulas práticas.
