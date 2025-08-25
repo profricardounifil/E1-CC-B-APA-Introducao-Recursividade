@@ -4,6 +4,7 @@ import java.util.Scanner;
  * A classe realiza a contagem regressiva de um número informado.
  * As funcionalidades dessa classe referem-se a informar a contagem regressiva
  * de um número natural, com versões iterativas e recursivas.
+ *
  * @author Ricardo Petri Silva
  * @version 1.0
  */
